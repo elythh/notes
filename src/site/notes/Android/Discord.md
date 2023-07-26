@@ -17,6 +17,9 @@
 This mod works on Android **AND** iOS.
 > [!fail] Althought I know it is also available on iOS, i won't be talking about that part here because I am exclusively an Android user.
 
+### Features
+* Custom plugins
+* Custom themes
 ### Links
 🔗 Github organization [vendetta-mod](https://github.com/vendetta-mod)
 🔗 Vendetta Discord server [invite link](https://discord.com/invite/n9QQ4XhhJP)
