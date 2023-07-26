@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/android/instagram/","created":"","updated":""}
+{"dg-publish":true,"dg-created":"Jul We, 2023 11:16 pm","dg-modified":"Jul Th, 2023 1:46 am","permalink":"/android/instagram/","dgPassFrontmatter":true,"created":"Jul We, 2023 11:16 pm","updated":""}
 ---
 
 ## FAQ
