@@ -3,12 +3,12 @@
 ---
 
 ## About
-Hello, this website is a simple guide about how to install alternative applications to popular ones on Android.
+This website is a simple guide about how to install alternative applications to popular ones on Android.
 The objective of these apps are mostly to :
 * Remove ads
 * Add useful features
 
-The objective for the popular services is to pay your subscription cheaper.
+The other section is about subscribing to popular services for a cheaper price.
 ## List
 ### Android
 - [[Android/Discord\|Discord]]
