@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"","updated":""}
 ---
 
+# Hello ! 
 ## About
 This website is a simple guide about how to install alternative applications to popular ones on Android.
 The objective of these apps are mostly to :
