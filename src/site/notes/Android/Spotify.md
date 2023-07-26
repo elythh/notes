@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/android/spotify/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/android/spotify/","created":"","updated":""}
 ---
 
