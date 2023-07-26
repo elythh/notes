@@ -27,7 +27,7 @@
 1. Go to the [official website](https://www.xmanagerapp.com/) and click the `Download` button
 2. Install xManager and open it
 3. Select the variant you want and install it
-   > [!info]  Variants
+   > [!info]-  Variants
    > - Stock patched : Ad-free, unliited skips and play on-demand
    > - Amoled patched :  Same as the previous one, with amoled theme
    > - Lite patched : Ad-free, unlimited skips an play on-demand lightweight
