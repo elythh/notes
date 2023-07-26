@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/android/you-tube/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/android/you-tube/","created":"","updated":""}
 ---
 
