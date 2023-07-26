@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/android/twitter/","noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/android/twitter/","created":"","updated":""}
 ---
 
