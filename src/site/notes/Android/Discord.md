@@ -4,14 +4,14 @@
 
 
 ## FAQ
-> [!question] What is Discord ?
+> [!question]- What is Discord ?
 > Discord is a voice, video, and text chat app that's used by tens of millions of people ages 13+ to talk and hang out with their communities and friends.
 
-> [!question] Why would I use a modified Discord client on Android ?
-> You light have heard of [BetterDiscord](https://betterdiscord.app/)already. If note, BetterDiscord is a client mod that allows you to extend the functionality of the default Discord app by adding community made plugins and themes.
+> [!question]- Why would I use a modified Discord client on Android ?
+> You might have heard of [BetterDiscord](https://betterdiscord.app/)already. If note, BetterDiscord is a client mod that allows you to extend the functionality of the default Discord app by adding community made plugins and themes.
 
 ## Vendetta
-> [!question] What is Vendetta ?
+> [!question]- What is Vendetta ?
 >  Vendetta is mod for Discord's mobile apps. Similar to client like BetterDiscord on desktop, it allows you to install plugins and custom themes.
 
 This mod works on Android **AND** iOS.
@@ -19,8 +19,8 @@ This mod works on Android **AND** iOS.
 
 ### Links
 🔗 Github organization [vendetta-mod](https://github.com/vendetta-mod)
-🔗Vendetta Discord server [invite link](https://discord.com/invite/n9QQ4XhhJP)
-🔗Vendetta's [website](https://vendetta.vercel.app/)
+🔗 Vendetta Discord server [invite link](https://discord.com/invite/n9QQ4XhhJP)
+🔗 Vendetta's [website](https://vendetta.vercel.app/)
 
 ### How to install
 > [!tip] I recommend to use the non-rooted version even if your phone is rooted, as I had issue with the root method
