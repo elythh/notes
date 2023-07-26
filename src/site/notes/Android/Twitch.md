@@ -1,4 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/android/twitch/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/android/twitch/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
+## FAQ
+
+## PurpleTV
