@@ -46,3 +46,5 @@
 > I recommend you to chose the clone version.
 
 1. Chose the installation way you prefer
+2. Log in using your Instagram credentials
+3. To customize Instander settings, go to your profile, click the 3 lines on top right and click `Instander settings`
