@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/android/spotify/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/android/spotify/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
@@ -27,9 +27,5 @@
 1. Go to the [official website](https://www.xmanagerapp.com/) and click the `Download` button
 2. Install xManager and open it
 3. Select the variant you want and install it
-   > [!info]-  Variants
-   > - Stock patched : Ad-free, unliited skips and play on-demand
-   > - Amoled patched :  Same as the previous one, with amoled theme
-   > - Lite patched : Ad-free, unlimited skips an play on-demand lightweight
-   > - Wave patched : Ad-free, unlimited skips, play on-demand and listen offline **TIDAL**
+
 4. Log-in using your Spotify credentials and profit ! 😄
