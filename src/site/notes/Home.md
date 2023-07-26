@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":"","created":"","updated":""}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"","updated":""}
 ---
-
 
 ## About
 Hello, this website is a simple guide about how to install alternative applications to popular ones on Android.
 The objective of these apps are mostly to :
 * Remove ads
 * Add useful features
+
 The objective for the popular services is to pay your subscription cheaper.
 ## List
 ### Android
