@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-created":"Invalid date","dg-modified":"Jul Th, 2023 1:47 am","permalink":"/android/discord/","dgPassFrontmatter":true,"created":"Invalid date","updated":""}
+{"dg-publish":true,"dg-created":"Jul We, 2023 11:16 pm","dg-modified":"Jul Th, 2023 1:48 am","permalink":"/android/discord/","dgPassFrontmatter":true,"created":"Jul We, 2023 11:16 pm","updated":""}
 ---
 
 
