@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"dg-created":"Jul We, 2023 11:12 pm","dg-modified":"Jul Th, 2023 1:48 am","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"Jul We, 2023 11:12 pm","updated":""}
+{"dg-publish":true,"dg-home":true,"dg-created":"Jul Sa, 2023 12:22 am","dg-modified":"Jul Sa, 2023 1:01 am","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"Jul Sa, 2023 12:22 am","updated":""}
 ---
 
 # Hello ! 
@@ -16,7 +16,7 @@ The other section is about subscribing to popular services for a cheaper price.
 - [[Android/Instagram\|Instagram]]
 - [[Android/Spotify\|Spotify]]
 - [[Android/Twitch\|Twitch]]
-- [[Android/Twitter - X ?\|Twitter - X ?]]
+- [[Twitter - X ?\|Twitter - X ?]]
 - [[Android/YouTube\|YouTube]]
 ### Popular services
 * [[Popular Services/Discord\|Discord]]
