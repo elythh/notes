@@ -16,7 +16,7 @@ The other section is about subscribing to popular services for a cheaper price.
 - [[publish/Android/Instagram\|Instagram]]
 - [[publish/Android/Spotify\|Spotify]]
 - [[publish/Android/Twitch\|Twitch]]
-- [[publish/Android/Twitter\|Twitter]]
+- [[publish/Android/Twitter - X ?\|Twitter - X ?]]
 - [[publish/Android/YouTube\|YouTube]]
 ### Popular services
 * [[publish/Popular Services/Discord\|Discord]]
