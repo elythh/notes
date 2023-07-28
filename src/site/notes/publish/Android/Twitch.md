@@ -38,10 +38,10 @@
 	* Blacklist
 * Gesture controls for brightness and volume
 * View
-	* Hide *Recommended*,*Followed*,*Recent Wathcing* and many more
+	* Hide *Recommended*,*Followed*,*Recent Watching* and many more
 ### Links
 🔗 Mirror [website](https://purpletv.aeong.one/)
-🔗 Sources on [GitLab](https://gitlab.com/twitchmod/orange-tv))(currently private)
+🔗 Sources on [GitLab](https://gitlab.com/twitchmod/orange-tv)(currently private)
 🔗 Telegram [channel](https://t.me/pubTw)
 🔗 Discord [server]() **NEED TO UPDATE IT**
 
