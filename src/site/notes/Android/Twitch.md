@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-created":"Jul Sa, 2023 12:22 am","dg-modified":"Jul Sa, 2023 1:28 am","permalink":"/android/twitch/","dgPassFrontmatter":true,"created":"Jul Sa, 2023 12:22 am","updated":""}
+{"dg-publish":true,"dg-created":"Jul Sa, 2023 12:22 am","dg-modified":"Jul Sa, 2023 1:32 am","permalink":"/android/twitch/","dgPassFrontmatter":true,"created":"Jul Sa, 2023 12:22 am","updated":""}
 ---
 
 ## FAQ
@@ -44,12 +44,10 @@
 🔗 Sources on [GitLab](https://gitlab.com/twitchmod/orange-tv)(currently private)
 🔗 Telegram [channel](https://t.me/pubTw)
 🔗 Discord [server]() **NEED TO UPDATE IT**
-
-🔗
 ### How to install
 1. Click on the Telegram channel link
 2. install the latest release. 
    As of writting this, the most recent public release is [PurpleTV_2_2](https://t.me/pubTw/154)
-3. Connect with your Twitch credentials and enjoy ! 😄p
+3. Connect with your Twitch credentials and enjoy ! 😄
 
 [^opensource]:The gitlab repo is currently private
