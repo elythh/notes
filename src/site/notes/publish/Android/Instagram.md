@@ -3,14 +3,14 @@
 ---
 
 ## FAQ
-> [!question]- What is Instagram ?
+> [!question] What is Instagram ?
 > Instagram is a free photo and video sharing app available on iPhone and Android.
 
-> [!question]- Why would I use a modified Instagram client on Android ? 
+> [!question] Why would I use a modified Instagram client on Android ? 
 > Obvisously : ads. Instagram ads are everywhere
 > Also, custom clients adds to useful that are detailed in the next section
 ## Instander
-> [!question]- What is Instander ?
+> [!question] What is Instander ?
 > Instander is an InstaMod which comes with a beautiful user interface and awesome features. The best features are No-ads, Privacy, Downloader (Photos/Video/Reels/IGTV) and HQ Media.
 ### Features 
 * Disable ads and analytics
